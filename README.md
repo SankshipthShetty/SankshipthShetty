@@ -1,6 +1,7 @@
 ## Konnichiwa, I'm Sankshipth Shetty 👋
 
-![5LYzTBVoS196gvYvw3zjwE_oJluLEotAmO5tyRF6sIc (3)](https://user-images.githubusercontent.com/99337968/222942235-b335238c-ee7e-4811-9798-b1e2130716d6.gif)
+![GitHub Readme gif](https://user-images.githubusercontent.com/99337968/224032861-99f7e208-30fc-4f90-bba8-dee0e18236aa.gif)
+
 
 <h3>
 🧑‍🎓I am currently a second year student pursuing my B.E in Computer Science and Engineering.<br><br>🧑‍💻I'm an enthusiastic learner with a deep-rooted love for data structures and algorithms.<br><br>🧠I am constantly driven to explore and develop new technologies that challenge me to expand my knowledge.<br><br>📚I am currently learning Web development and I'm also into competitive programming.<br><br>🗾And also I have an immense love towards Japanese culture and anime.
