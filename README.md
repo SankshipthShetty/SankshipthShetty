@@ -9,6 +9,7 @@
 
 ## 📱Profiles/Socials:
 <p align="left">
+  <a href="https://leetcode.com/sankshipthshetty" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="sankshipthshetty" height="30" width="40" /></a>
  <a href="https://www.codechef.com/users/sankshipth" target="blank"><img align="center" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="sankshipth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sankshipthshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankshipthshetty" height="30" width="40" /></a>
 <a href="https://instagram.com/sankshipth.shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankshipth.shetty" height="30" width="40" /></a>
