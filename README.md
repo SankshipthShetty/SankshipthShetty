@@ -9,7 +9,7 @@
 🧑🏻‍💻 I am currently immersing myself in Web development.
 <br><br>
 🗾 Also I have an immense love for Japanese culture and anime.
-  <br>
+  <br><br>
 </h3>
 
 
