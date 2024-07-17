@@ -6,7 +6,7 @@
 <br><br>
 🚀 I'm also passionate about DSA and Competitive Programming.
 <br><br>
-🧑🏻‍💻 I am currently immersing myself in Web development.
+🧑🏻‍💻 I am currently immersing myself in App development.
 <br><br>
 🗾 Also I have an immense love for Japanese culture and anime.
 
